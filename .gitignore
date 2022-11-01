@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+health_insurance.ipynb
